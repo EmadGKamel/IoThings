@@ -10,9 +10,9 @@ $ python main.py
 ## dependencies
 ### paho-mqtt
 ```
-sudo pip install paho-mqtt
+$ sudo pip install paho-mqtt
 ```
 ### PyQT5
 ```
-sudo pip install PyQt5
+$ sudo pip install PyQt5
 ```
